@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="(https://www.instagram.com/hb_in99/)" target="_blank"><img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=#E4405F&logoColor=#E4405F"/></a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khv9786&show_icons=true&theme=buefy)
