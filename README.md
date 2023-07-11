@@ -7,7 +7,7 @@
   
 ![image](https://github.com/khv9786/khv9786/assets/96505736/885ad538-df28-4e4c-bfac-65e0ed702bf4)
 
-<h3 align="center"><b>🌱 Study 🌼</b></h3>
+<h3 align="center"><b>🌱 Study At🌼</b></h3>
 
 [![Programmers Badge](http://img.shields.io/badge/-Programmers-172334?style=flat-square&logo=&link=https://programmers.co.kr/)](https://programmers.co.kr/)
 [![SW Expert Badge](http://img.shields.io/badge/-SW%20Expert-1428A0?style=flat-square&logo=samsung&link=https://swexpertacademy.com/main/main.do)](https://swexpertacademy.com/main/main.do)
