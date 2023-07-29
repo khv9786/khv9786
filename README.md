@@ -6,6 +6,7 @@
  <div align=center>	
   
 ![image](https://github.com/khv9786/khv9786/assets/96505736/885ad538-df28-4e4c-bfac-65e0ed702bf4)
+<p>안녕하세오,, 차근차근 공부하고 있는 말하는 감자입니다
 
 <h3 align="center"><b>🌱 Study At🌼</b></h3>
 
