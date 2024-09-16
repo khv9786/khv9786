@@ -42,6 +42,10 @@
 
 <div align="center">
 
+<h4 align="center"><b>🔔 Lasted Post ✏</b></h4>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=my-blog&postId=123456)](https://hb-in99.tistory.com/)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=edd078&height=200&section=footer)
 
 </div>
