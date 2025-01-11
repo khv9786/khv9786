@@ -38,6 +38,10 @@
 [![Naver Mail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:khv9786@naver.com)](mailto:khv9786@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hb_in99/)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/khv9786"/>
+</a>
+
 </div>
 
 <div align="center">
