@@ -1,12 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=edd078&height=230&section=header&text=말하는..%20감자의%20깃허브&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=edd078&height=100&section=header)
 
 ![image](https://github.com/khv9786/khv9786/assets/96505736/885ad538-df28-4e4c-bfac-65e0ed702bf4)
 
 **안녕하세요...  차근차근 공부중인 말하는 감자 김현빈입니다 ..🥔**
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhv9786&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%2338B41E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center"><b>🌱 Algorithm 🌼</b></h3>
 
@@ -48,8 +46,6 @@
 
 <h4 align="center"><b>🔔 Lasted Post ✏</b></h4>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=my-blog&postId=123456)](https://hb-in99.tistory.com/)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=edd078&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=edd078&height=50&section=footer)
 
 </div>
